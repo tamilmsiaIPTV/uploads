@@ -1,5 +1,7 @@
 ﻿#EXTM3U
 
+#EXTINF:-1,In-Adithya TV
+http://37.187.168.83:8000/live/d0918/di9w/9533.ts
 #EXTINF:211, tvg-id="SUN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" tvg-name="SUN TV(211)"  group-title="TAMIL",SUN TV(211)
 P2P://66.70.178.81:4562/57f264ca0008411a393236c518fe3791.ts
 
