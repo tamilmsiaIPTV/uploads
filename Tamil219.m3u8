@@ -1,3 +1,48 @@
+#EXTINF:0 group-title="(IN) India",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(IN) India",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(IN) India",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IN) India",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IN) India",AKAAL | SD (IN)
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv-video=1500000-audio_AACL_eng_65600_120=65600.m3u8
+#EXTINF:0 group-title="(IN) India",AKARAM MIX TV | SD (IN)
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+#EXTINF:0 group-title="(IN) India",APNA PUNJAB | SD (IN)
+http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
+#EXTINF:0 group-title="(IN) India",B4U PLUS | SD (IN)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11323.m3u8
+#EXTINF:0 group-title="(IN) India",BHARAT TODAY | SD (IN)
+http://live.wmncdn.net/bharat2015today1/livetoday.stream/index.m3u8
+#EXTINF:0 group-title="(IN) India",CANADA ONE | SD (IN)
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:0 group-title="(IN) India",CHANNEL Y | SD (IN)
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:0 group-title="(IN) India",DY365 | SD (IN)
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh1.stream_aac/playlist.m3u8
+#EXTINF:0 group-title="(IN) India",HUM TV | SD (IN)
+http://izgemma.ddns.net:8000/live/ryan/ryan/6031.m3u8
+#EXTINF:0 group-title="(IN) India",JAWAHAR CHANNEL | SD (IN)
+http://209.58.177.35/jawaharhls/live.m3u8
+#EXTINF:0 group-title="(IN) India",NDTV | SD (IN)
+https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
+#EXTINF:0 group-title="(IN) India",PTV PARDESI TV | SD (IN)
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="(IN) India",STAR JALSHA | SD (IN)
+http://izgemma.ddns.net:8000/live/ryan/ryan/6299.m3u8
+#EXTINF:0 group-title="(IN) India",ZEE ACTION | SD (IN)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11309.m3u8
+#EXTINF:0 group-title="(IN) India",ZEE AMMOL | SD (IN)
+http://izgemma.ddns.net:8000/live/ryan/ryan/11311.m3u8
+#EXTINF:0 group-title="(IN) India",ZEE CLASSIC | SD (IN)
+http://izgemma.ddns.net:8000/live/ryan/ryan/31255.m3u8
+#EXTINF:0 group-title="(IN) India",ZEE ETC | SD (IN)
+http://izgemma.ddns.net:8000/live/ryan/ryan/31256.m3u8
+#EXTINF:0 group-title="(IN) India",ZEE MAGIC | SD (IN)
+http://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
+
 #EXTINF:-1,group-title="Tamil",Unknown 0
 http://mhms11.airtel.tv/wh7f454c46tw2803788085_1762483998/PLTV/88888888/224/3221226534/04.m3u8
 
