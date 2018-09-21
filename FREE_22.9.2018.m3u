@@ -1,116 +1,114 @@
 ﻿#EXTM3U
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SUN TV SD"  group-title="TAMIL",SUN TV SD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SUN TV SD"  group-title="TAMIL",SUN TV SD
 http://mhms11.airtel.tv/wh7f454c46tw2803788085_1762483998/PLTV/88888888/224/3221226534/04.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SUN TV HD"  group-title="TAMIL",SUN TV HD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SUN TV HD"  group-title="TAMIL",SUN TV HD
 http://mhms10.airtel.tv/wh7f454c46tw131025162_169220047/PLTV/88888888/224/3221226523/04.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KTV SD"  group-title="TAMIL",KTV SD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KTV SD"  group-title="TAMIL",KTV SD
 http://mhms10.airtel.tv/wh7f454c46tw1110951290_771728951/PLTV/88888888/224/3221226514/04.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KTV HD"  group-title="TAMIL",KTV HD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KTV HD"  group-title="TAMIL",KTV HD
 http://mhms10.airtel.tv/wh7f454c46tw972175122_41310706/PLTV/88888888/224/3221226524/04.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SUN MUSIC"  group-title="TAMIL",SUN MUSIC
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SUN MUSIC"  group-title="TAMIL",SUN MUSIC
 http://mhms10.airtel.tv/wh7f454c46tw1109653172_1933626915/PLTV/88888888/224/3221226535/04.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SUN MUSIC HD"  group-title="TAMIL",SUN MUSIC HD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SUN MUSIC HD"  group-title="TAMIL",SUN MUSIC HD
 http://mhms11.airtel.tv/wh7f454c46tw1440050500_1983673813/PLTV/88888888/224/3221226518/04.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ADITHYA"  group-title="TAMIL",ADITHYA
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ADITHYA"  group-title="TAMIL",ADITHYA
 http://mhms11.airtel.tv/wh7f454c46tw345602496_846077081/PLTV/88888888/224/3221226511/04.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EET TV"  group-title="TAMIL",EET TV
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EET TV"  group-title="TAMIL",EET TV
 http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Zee Tamil"  group-title="TAMIL",Zee Tamil
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Zee Tamil"  group-title="TAMIL",Zee Tamil
 https://z5ams.akamaized.net/zeetamil/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jaya TV"  group-title="TAMIL",Jaya TV
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jaya TV"  group-title="TAMIL",Jaya TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226092/1.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kalaignar TV"  group-title="TAMIL",Kalaignar TV
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kalaignar TV"  group-title="TAMIL",Kalaignar TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226091/04.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polimer TV"  group-title="TAMIL",Polimer TV
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Polimer TV"  group-title="TAMIL",Polimer TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226103/04.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MGR TV"  group-title="TAMIL",MGR TV
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MGR TV"  group-title="TAMIL",MGR TV
 http://livematrix.in:1935/live/mgrtv/chunklist_w945818993.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vaighai TV"  group-title="TAMIL",Vaighai TV
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vaighai TV"  group-title="TAMIL",Vaighai TV
 http://209.58.164.113/vaigaihls/live.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jaffna TV"  group-title="TAMIL",Jaffna TV
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jaffna TV"  group-title="TAMIL",Jaffna TV
 http://stmv3.srvstm.com/matheus/matheus/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Netrikan TV HD"  group-title="TAMIL",Netrikan TV HD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Netrikan TV HD"  group-title="TAMIL",Netrikan TV HD
 http://45.79.203.234:1935/netrikgunhd/myStream/chunklist_w2114360818.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IBC MUSIC"  group-title="TAMIL",IBC MUSIC
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IBC MUSIC"  group-title="TAMIL",IBC MUSIC
 https://59299831b66d0.streamlock.net/ibc-music/smil:ibcmusic.smil/chunklist_w302513134_b1344100_slEN.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Raj MUSIX"  group-title="TAMIL",Raj MUSIX
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Raj MUSIX"  group-title="TAMIL",Raj MUSIX
 https://z5ams.akamaized.net/rajmusix/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Peppers TV"  group-title="TAMIL",Peppers TV
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Peppers TV"  group-title="TAMIL",Peppers TV
 http://xlbor33arvaj-hls-live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Akaram Mix"  group-title="TAMIL",Akaram Mix
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Akaram Mix"  group-title="TAMIL",Akaram Mix
 http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tamilan 24"  group-title="TAMIL",Tamilan 24
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tamilan 24"  group-title="TAMIL",Tamilan 24
 http://45.79.203.234:1935/tamilan24/myStream/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Akaram Galatta"  group-title="TAMIL",Akaram Galatta
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Akaram Galatta"  group-title="TAMIL",Akaram Galatta
 http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IBC Comedy"  group-title="TAMIL",IBC Comedy
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IBC Comedy"  group-title="TAMIL",IBC Comedy
 https://59299831b66d0.streamlock.net/ibc-comedy/smil:ibccomedy.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SUN NEWS"  group-title="TAMIL",SUN NEWS
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SUN NEWS"  group-title="TAMIL",SUN NEWS
 http://mhms11.airtel.tv/wh7f454c46tw3735763667_427164331/PLTV/88888888/224/3221226519/04.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Malai Murasu"  group-title="TAMIL",Malai Murasu
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Malai Murasu"  group-title="TAMIL",Malai Murasu
 http://45.79.203.234:1935/murasutv/myStream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Puthiya Thalaimurai"  group-title="TAMIL",Puthiya Thalaimurai
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Puthiya Thalaimurai"  group-title="TAMIL",Puthiya Thalaimurai
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226304/1.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG | SD (IN)"  group-title="NEWS",BLOOMBERG | SD (IN)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG | SD (IN)"  group-title="NEWS",BLOOMBERG | SD (IN)
 http://bloomtv.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/bloomtv/live/feed01/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNBC TV18"  group-title="NEWS",CNBC TV18
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNBC TV18"  group-title="NEWS",CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbc_tv18_hls_n_1@174868/index_5_av-p.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNN IBN"  group-title="NEWS",CNN IBN
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNN IBN"  group-title="NEWS",CNN IBN
 http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC WORLD NEWS"  group-title="NEWS",BBC WORLD NEWS
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC WORLD NEWS"  group-title="NEWS",BBC WORLD NEWS
 http://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN1 HD"  group-title="SPORTS",SONY TEN1 HD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN1 HD"  group-title="SPORTS",SONY TEN1 HD
 http://cshms4.airtel.tv/wh7f454c46tw1071703244_1357289440/PLTV/88888888/224/3221225875/05.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN1 SD"  group-title="SPORTS",SONY TEN1 SD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN1 SD"  group-title="SPORTS",SONY TEN1 SD
 http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN2 HD"  group-title="SPORTS",SONY TEN2 HD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN2 HD"  group-title="SPORTS",SONY TEN2 HD
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/05.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN2 SD"  group-title="SPORTS",SONY TEN2 SD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN2 SD"  group-title="SPORTS",SONY TEN2 SD
 http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN3 HD"  group-title="SPORTS",SONY TEN3 HD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN3 HD"  group-title="SPORTS",SONY TEN3 HD
 http://mhms6.airtel.tv/wh7f454c46tw2828204960_1272463506/PLTV/88888888/224/3221226330/04.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY SIX HD"  group-title="SPORTS",SONY SIX HD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY SIX HD"  group-title="SPORTS",SONY SIX HD
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/05.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY SIX SD"  group-title="SPORTS",SONY SIX SD
+#EXTINF:-1 tvg-id="" group-title="SPORTS",SONY SIX SD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/1.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY ESPN HD"  group-title="SPORTS",SONY ESPN HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY ESPN HD" group-title="SPORTS",SONY ESPN HD
 http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
-
