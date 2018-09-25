@@ -13,7 +13,7 @@ http://mhms11.airtel.tv/wh7f454c46tw345602496_846077081/PLTV/88888888/224/322122
 http://209.58.160.206/agamtvhls/live.m3u8
 
 #EXTINF:-1 tvg-id="SILVER" tvg-logo="New Logo" tvg-name="ADITHYA"  group-title="TAMIL",ADITHYA
-https://ylive28-i.akamaihd.net/hls/live/690701/adityatv/adityatv/playlist.m3u8
+https://ylive28-i.akamaihd.net/hls/live/690701/adityatv/adityatv_2000/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SILVER" tvg-logo="http://akaramtv.com/images/akaramkalada.png" tvg-name="Akaram Galatta"  group-title="TAMIL",Akaram Galatta
 http://akaram.zecast.net/akaram-live/akaramgalatta1/index.m3u8
