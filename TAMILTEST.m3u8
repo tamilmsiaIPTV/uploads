@@ -100,7 +100,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226091/index.m3u8
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/kbo.jpg" tvg-name="KBO HD YUPPFLIX"  group-title="TAMIL",KBO HD YUPPFLIX
-https://ylive28-i.akamaihd.net/hls/live/690704/kbous/playlist.m3u8
+https://ylive28-i.akamaihd.net/hls/live/690704/kbous/kbous_1800/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://www.airtel.in/DTH/images/asset/IC-756.png" tvg-name="KTV HD"  group-title="TAMIL",KTV HD
 http://mhms10.airtel.tv/wh7f454c46tw972175122_41310706/PLTV/88888888/224/3221226524/04.m3u8
