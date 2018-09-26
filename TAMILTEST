@@ -1,4 +1,10 @@
 ﻿#EXTM3U
+ 
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://www.airtel.in/DTH/images/asset/IC-758.png" tvg-name="STAR VIJAY UK"  group-title="TAMIL",STAR VIJAY UK | Premium
+http://216.144.250.174/Star_VIjay_Hd/index.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://airtelmoney.in/ala-carte/images/icons/Zee-Tamil.jpg" tvg-name="Zee Tamil | A"  group-title="TAMIL",Zee Tamil | Premium
+http://cshms2.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225929/index.m3u8
 
 #EXTINF:-1 tvg-id="SILVER" tvg-logo="https://www.airtel.in/DTH/images/asset/IC-821.png" tvg-name="7S Music"  group-title="TAMIL",7S Music
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226213/index.m3u8
@@ -189,11 +195,7 @@ http://ealing.zecast.net/ealing-live-2/sktat.stream/index.m3u8
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://www.airtel.in/DTH/images/asset/IC-471.png" tvg-name="Sony YaY | KIDS"  group-title="TAMIL",Sony YaY | KIDS
 http://mhms11.airtel.tv/wh7f454c46tw1799333471_1357632319/PLTV/88888888/224/3221226502/index.m3u8
 
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://www.airtel.in/DTH/images/asset/IC-758.png" tvg-name="STAR VIJAY UK"  group-title="TAMIL",STAR VIJAY UK
-http://216.144.250.174/Star_VIjay_Hd/index.m3u8
 
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://www.airtel.in/DTH/images/asset/IC-758.png" tvg-name="STAR VIJAY UK"  group-title="TAMIL",STAR VIJAY INDIA
-http://thesenutz.xyz:2052/live/arithasan.p@gmail.com/4Nlrw3u0Y5/19673.ts
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://www.airtel.in/DTH/images/asset/IC-806.png" tvg-name="Sun Life"  group-title="TAMIL",Sun Life
 http://mhms11.airtel.tv/wh7f454c46tw4200934632_259591781/PLTV/88888888/224/3221226536/index.m3u8
@@ -254,9 +256,6 @@ http://45.79.203.234:1935/vendharm/myStream/chunklist_w200179631index.m3u8
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="WOWkidz Tamil"  group-title="TAMIL",WOWkidz Tamil
 https://ylive12-i.akamaihd.net/hls/live/682447/yuppkidztam/yuppkidztam/playlist.m3u8
-
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://airtelmoney.in/ala-carte/images/icons/Zee-Tamil.jpg" tvg-name="Zee Tamil | A"  group-title="TAMIL",Zee Tamil | A
-http://cshms2.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225929/index.m3u8
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="http://airtelmoney.in/ala-carte/images/icons/Zee-Tamil.jpg" tvg-name="Zee Tamil | B"  group-title="TAMIL",Zee Tamil | B
 https://z5ams.akamaized.net/zeetamil/tracks-v1a1/index.m3u8
