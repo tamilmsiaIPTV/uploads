@@ -1,5 +1,8 @@
 ﻿#EXTM3U
  
+#EXTINF:-1 [COLOR orange]And Prive HD[/COLOR]
+http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
+ 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://www.airtel.in/DTH/images/asset/IC-758.png" tvg-name="STAR VIJAY UK"  group-title="TAMIL",STAR VIJAY UK | Premium
 http://216.144.250.174/Star_VIjay_Hd/index.m3u8
 
