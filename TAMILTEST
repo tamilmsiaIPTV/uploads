@@ -1,4 +1,28 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN1 HD"  group-title="SPORTS",SONY TEN1 HD
+http://cshms4.airtel.tv/wh7f454c46tw1071703244_1357289440/PLTV/88888888/224/3221225875/05.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN1 SD"  group-title="SPORTS",SONY TEN1 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN2 HD"  group-title="SPORTS",SONY TEN2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/05.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN2 SD"  group-title="SPORTS",SONY TEN2 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN3 HD"  group-title="SPORTS",SONY TEN3 HD
+http://mhms6.airtel.tv/wh7f454c46tw2828204960_1272463506/PLTV/88888888/224/3221226330/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY ESPN HD" group-title="SPORTS",SONY ESPN HD
+http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY SIX HD"  group-title="SPORTS",SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/05.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY ESPN HD" group-title="SPORTS",SONY ESPN HD
+http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
  
 #EXTINF:-1 [COLOR orange]And Prive HD[/COLOR]
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
@@ -8,7 +32,6 @@ http://216.144.250.174/Star_VIjay_Hd/index.m3u8
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://www.airtel.in/DTH/images/asset/IC-758.png" tvg-name="STAR VIJAY UK"  group-title="TAMIL",STAR VIJAY INDIA
 http://thesenutz.xyz:2052/live/arithasan.p@gmail.com/4Nlrw3u0Y5/19673.ts
-
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="http://airtelmoney.in/ala-carte/images/icons/Zee-Tamil.jpg" tvg-name="Zee Tamil | A"  group-title="TAMIL",Zee Tamil | Premium
 http://cshms2.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225929/index.m3u8
