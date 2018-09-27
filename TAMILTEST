@@ -62,7 +62,7 @@ http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
 http://mhms10.airtel.tv/wh7f454c46tw4292497686_732675034/PLTV/88888888/224/3221226501/index.m3u8
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://www.airtel.in/DTH/images/asset/IC-798.png" tvg-name="Discovery Tamil"  group-title="TAMIL",Discovery Tamil
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226311/index.m3u8
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226311/04.m3u8
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="EET TV"  group-title="TAMIL",EET TV
 http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
