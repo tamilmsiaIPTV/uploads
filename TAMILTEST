@@ -1,4 +1,17 @@
-﻿#EXTM3U
+#EXTM3U url-tvg="http://iptv-epg.com/8101-k8urzb.xml"
+
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name="Sun TV IN" tvg-logo="https://www.airtel.in/DTH/images/asset/IC-754.png" tvg-chno="3" channel-id="3" group-title="TEST",sun tv
+http://mhms10.airtel.tv/wh7f454c46tw131025162_169220047/PLTV/88888888/224/3221226523/04.m3u8
+
+#EXTINF:-1 tvg-id="SunMusic.in" tvg-name="Sun Music IN" tvg-logo="https://www.airtel.in/DTH/images/asset/IC-809.png" tvg-chno="4" channel-id="4" group-title="TEST",sun music
+http://mhms11.airtel.tv/wh7f454c46tw1440050500_1983673813/PLTV/88888888/224/3221226518/04.m3u8
+
+#EXTINF:-1 tvg-id="Jaya.in" tvg-name="Jaya IN" tvg-logo="http://static.iptv-epg.com/in/Jaya.in.png" tvg-chno="1" channel-id="1" group-title="TEST",Jaya TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226092/index.m3u8
+
+#EXTINF:-1 tvg-id="Vijay.in" tvg-name="Vijay IN" tvg-logo="https://www.airtel.in/DTH/images/asset/IC-758.png" tvg-chno="2" channel-id="2" group-title="TEST",Star Vijay
+http://216.144.250.174/Star_VIjay_Hd/index.m3u8
+
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN1 HD"  group-title="SPORTS",SONY TEN1 HD
 http://cshms4.airtel.tv/wh7f454c46tw1071703244_1357289440/PLTV/88888888/224/3221225875/05.m3u8
